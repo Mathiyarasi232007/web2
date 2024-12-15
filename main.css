@@ -1,0 +1,13 @@
+html{
+    font-size: 22px;
+}
+body{
+    background-color: green;
+    color: white;
+}
+table, th, td,tr {
+    border: 1px solid black;
+  }
+
+
+   
